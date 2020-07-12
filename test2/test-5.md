@@ -1,6 +1,6 @@
 # Test 5.1
 
-**Answer** : 15000 20000 30000
+<img src="https://i.imgur.com/ELsjvb4.png">
 
 ----
 
